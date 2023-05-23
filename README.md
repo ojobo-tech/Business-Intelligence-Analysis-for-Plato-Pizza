@@ -5,14 +5,13 @@
 Role: BI Consultant.
 
 
-**Consultancy Overview: **
+**Consultancy Overview:**
 
 For this project, I played the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:
 
 
 
-**Client Request:
-**
+**Client Request:**
 Welcome aboard, we're glad you're here to help!
 
 
